@@ -1,4 +1,4 @@
-# Fork of Sweep
+# sartak's fork of Ferris Sweep
 
 **Note: I haven't yet received a manufactured PCB so I cannot recommend this yet, but I will update when I have.**
 
