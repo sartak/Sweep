@@ -14,3 +14,5 @@ This is a fork of [Sweep](https://github.com/davidphilipbarr/Sweep) with the fol
 - Removed tenting puck and holes unnecessary for Kailh choc v1 switches
 
 The [`half-swept_gerber.zip`](https://github.com/sartak/Sweep/raw/main/Sweep%20half-swept/half-swept_gerber.zip) has been updated, ready to be sent to a PCB manufacturer.
+
+See [https://github.com/sartak/keyboard](https://github.com/sartak/keyboard) for how I use this.
