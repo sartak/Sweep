@@ -4,6 +4,9 @@
 | :-------------------------------------------: | :-----------------------------------------: |
 | ![front](/gallery/sweep-half-swept/front.png) | ![back](/gallery/sweep-half-swept/back.png) |
 
+![manufactured PCB](/gallery/sweep-half-swept/manufactured.jpg)
+![built keyboard](/gallery/sweep-half-swept/built.jpg)
+
 This is a fork of [Sweep](https://github.com/davidphilipbarr/Sweep) with the following modifications to the Half-Swept board:
 
 - Removed all the silkscreen text (so you better already know how to build one of these!)
