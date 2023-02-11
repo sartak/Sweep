@@ -1,0 +1,25 @@
+pinky top 38.58
+pinky bottom 53.58
+pinky next top 55.58
+pinky last top 72.58
+pinky left 19.58
+pinky right 34.58
+
+ring top 26.58
+ring left 37.58
+
+middle top 19.58
+
+index top 25.09
+
+center top 27.58
+center right 106.58
+center last bottom 76.58
+
+outer thumb top 79.53
+outer thumb left 83.30
+outer thumb rot 165
+
+inner thumb top 87.28
+inner thumb left 101.85
+inner thumb rot 150
